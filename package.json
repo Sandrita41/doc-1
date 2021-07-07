@@ -1,0 +1,24 @@
+{
+    "name": "doc-1",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "live-server --port=3000"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Sandrita41/doc-1.git"
+    },
+    "keywords": [],
+    "author": "Sandra Adomavičienė",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Sandrita41/doc-1/issues"
+    },
+    "homepage": "https://github.com/Sandrita41/doc-1#readme",
+    "devDependencies": {
+        "live-server": "^1.2.1"
+    },
+    "dependencies": {}
+}
